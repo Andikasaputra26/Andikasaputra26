@@ -38,37 +38,6 @@
 🧠 Currently exploring **Next.js, Docker, and queue-based data automation**  
 ⚡ Fun fact: I enjoy optimizing queries more than my sleep 😆  
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andika-saputra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andika-saputra&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andika-saputra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6" />
-</p>
-
----
-
-### 🧠 Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 🌈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andika-saputra&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ### ⚙️ Tech Stack Highlights
 | Category | Tools |
 |-----------|--------|
@@ -82,7 +51,7 @@
 ---
 
 ### ✨ Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” — Andika Saputra
 
 ---
 
