@@ -41,7 +41,6 @@
 💡 Passionate full-stack developer with strong focus on **Laravel, React, and data-driven dashboards**  
 🎯 Experienced in **SaaS, POS systems, AI dashboards, and telecom analytics**  
 🧠 Currently exploring **Next.js, Docker, and queue-based data automation**  
-📩 Reach me at **andika.devteam@gmail.com**  
 ⚡ Fun fact: I enjoy optimizing queries more than my sleep 😆  
 
 ---
