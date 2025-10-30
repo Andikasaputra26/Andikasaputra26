@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Andika+Saputra;Full+Stack+Developer;Frontend+%26+Backend+Engineer;Building+Smart+Web+Solutions+🚀" alt="Typing SVG" />
 </p>
 
-<!-- Animated Gradient Banner -->
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/raw/master/assets/line-rainbow.png" width="100%" />
-</p>
-
 <h3 align="center">💻 Frontend & Backend Web Developer | Laravel | React | Next.js | MySQL</h3>
 ---
 
@@ -57,8 +52,4 @@
 
 <p align="center">
   <img src="https://github.com/andreasbm/readme/raw/master/assets/line-rainbow.png" width="100%" />
-</p>
-
-<p align="center">
-  <i>Crafted with ❤️ by <b>Andika Saputra</b></i>
 </p>
