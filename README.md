@@ -40,7 +40,6 @@
 | **Backend** | Laravel, Node.js, REST API, Queue Workers |
 | **Database** | MySQL, PostgreSQL, MongoDB |
 | **DevOps** | Docker, Redis, PM2 |
-| **Cloud & Hosting** | Firebase, Niagahoster, VPS Ubuntu |
 | **Others** | Git, Postman, VSCode, Figma |
 
 ---
